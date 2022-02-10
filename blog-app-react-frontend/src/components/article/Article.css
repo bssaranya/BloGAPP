@@ -1,0 +1,18 @@
+#articles{
+    text-align: center;
+    color: green
+}
+
+.article{
+    color: purple;
+    text-align: center;
+}
+
+.description{
+    color: #000;
+    margin: 25px;
+}
+
+.articlelink{
+    text-align: center;
+}
